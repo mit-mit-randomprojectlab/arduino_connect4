@@ -8,3 +8,4 @@ https://github.com/adafruit/Adafruit_LED_Backpack
 https://github.com/adafruit/Adafruit-GFX-Library
 
 More details on the development of the code and associated hardware:
+http://randomprojectlab.blogspot.com/2019/08/mini-electronic-connect4-game.html
